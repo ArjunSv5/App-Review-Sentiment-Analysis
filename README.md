@@ -2,7 +2,7 @@
 
 A web app that scrapes reviews from the Google Play Store and uses an AI model to analyze user sentiment — displaying a sentiment score out of 10 with beautiful visual charts.
 
-![Streamlit Screenshot]([https://user-images.githubusercontent.com/your-screenshot-link.png](https://drive.google.com/file/d/1G5i03VUkOoqrLP_Kd3h2g-jFNYZdayQ9/view?usp=sharing))
+![Streamlit Screenshot](./test.png)
 
 ---
 
