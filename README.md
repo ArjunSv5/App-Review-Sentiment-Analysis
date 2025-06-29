@@ -19,7 +19,7 @@ A web app that scrapes reviews from the Google Play Store and uses an AI model t
 ## 🌐 Live Demo
 
 > **Hosted on Streamlit Cloud**  
-> 🔗 [Click here to try it online]([https://app-review-sentiment-analysis.streamlit.app](https://app-review-sentiment-analysis.streamlit.app))  
+> 🔗 [Click here to try it online]([https://app-review-sentiment-analysis.streamlit.app])
 
 ---
 
